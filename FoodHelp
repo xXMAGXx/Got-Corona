@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<title>Got Corona?</title>
+	<style>
+	body{
+		background-color:#469e95;
+		
+	}
+	h2{
+	text-align:center;
+	}
+	ul{
+	text-align:center;
+	}
+	li{
+	text-align:center;
+	}
+	</style>
+	</head>
+	
+	<body>
+	<center><h1>Sooo.... Corona Got You</h1></center>
+	<center><h2>You see this is bad, but just think about how you don't have to do anything now</h2></center>
+	<center><h2>You have now been promoted to couch potato and you are not allowed to leave your room, so that is why We're here<br></h2><h1>Here will be a list and menu of what we have in this house hold</h1></center>
+	
+	<center><h3>If You Want A Full List You Can Click The Link Below</h3></center>
+	<center><h1><a href="Menu.pdf">full list</a></h1></center>
+	
+	<center><h1>here are the lists of items we have</h1></center>
+	<h2>Fruits and Vegitables</h2>
+	<ul>
+		<li>Apples*</li>
+		<li>Bananas</li>
+		<li>Mangos</li>
+		<li>Strawberries</li>
+		<li>Avacados</li>
+		<li>Tomatos</li>
+		<li>Limes</li>
+		<li>Carrots</li>
+	</ul>
+		<center><p><h6>*Apples come in Granny Smith and crunchy Red</h6></p></center>
+	<h2>Meats</h2>
+	<ul>
+		<li>Turkey Ham</li>
+		<li>Turkey Bacon</li>
+		<li>Ground Beef</li>
+	</ul>
+	<h2>Drinks</h2>
+	<ul>
+		<li>Apple Juice</li>
+		<li>CapriSun</li>
+		<li>Milk</li>
+		<li>Sprite</li>
+		<li>Coke</li>
+	</ul>
+	<center><h6>*These can come Cold, Warm, With Ice, ETC.</h6></center>
+	<h2>chips</h2>
+	<ul>
+		<li>Corn Chips</li>
+		<li>Tortilla Chips</li>
+		<li>Cool Ranch</li>
+		<li>Prezel Sticks</li>
+	</ul>
+	<center><h6>*These may come with salsa</h6></center>
+	<h2>Candies</h2>
+	<ul>
+		<li>Hershey</li>
+		<li>Twix</li>
+		<li>Dum Dum</li>
+	</ul>
+	<h2>Other Foods</h2>
+	<ul>
+		<li>Cereal</li>
+		<li>Soup</li>
+	</ul>
+	
+	<center><h1>To place an order you can text these phone numbers below ↓↓↓</h1></center>
+	<center><h1><a href="sms:+6786830044">Text Raquel</a> or <a href="sms:+6786134576">Text Miguel</a></h1></center>
+	</body>
+
+</html>
